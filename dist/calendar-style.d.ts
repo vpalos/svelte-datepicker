@@ -1,0 +1,33 @@
+export class CalendarStyle {
+    constructor(overrides?: {});
+    style: string;
+    buttonBackgroundColor: string;
+    buttonBorderColor: string;
+    buttonTextColor: string;
+    buttonWidth: string;
+    highlightColor: string;
+    passiveHighlightColor: string;
+    dayBackgroundColor: string;
+    dayBackgroundColorIsNight: string;
+    dayTextColor: string;
+    dayTextColorIsNight: string;
+    dayTextColorInRange: string;
+    dayHighlightedBackgroundColor: string;
+    dayHighlightedTextColor: string;
+    currentDayTextColor: string;
+    selectedDayTextColor: string;
+    timeNightModeTextColor: string;
+    timeNightModeBackgroundColor: string;
+    timeDayModeTextColor: string;
+    timeDayModeBackgroundColor: string;
+    timeSelectedTextColor: string;
+    timeInputTextColor: string;
+    timeConfirmButtonColor: string;
+    timeConfirmButtonTextColor: string;
+    toolbarBorderColor: string;
+    contentBackground: string;
+    monthYearTextColor: string;
+    legendTextColor: string;
+    datepickerWidth: string;
+    toWrapperStyle(): string;
+}
