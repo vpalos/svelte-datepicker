@@ -1,5 +1,5 @@
 {
-    "name": "@vpalos/svelte-datepicker",
+    "name": "svelte-datepicker",
     "svelte": "src/main.js",
     "version": "13.0.0",
     "license": "MIT",
