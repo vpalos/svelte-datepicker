@@ -4,7 +4,7 @@
     "version": "13.0.1",
     "license": "MIT",
     "scripts": {
-        "start": "svelte-package --watch",
+        "dev": "svelte-package --watch",
         "build": "svelte-package"
     },
     "dependencies": {
