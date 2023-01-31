@@ -1,7 +1,7 @@
 {
   "name": "svelte-daterangepicker",
   "svelte": "src/main.js",
-  "version": "13.1.1",
+  "version": "13.2.0",
   "license": "MIT",
   "dependencies": {
     "@tsconfig/svelte": "^3.0.0",

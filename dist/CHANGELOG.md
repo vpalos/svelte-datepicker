@@ -1,5 +1,11 @@
 # Changelog
 
+## [13.2.0] - 2023-01-30
+
+-   Improved time input to allow for keypad keys and Delete key.
+-   Added auto-blur for time input when last digit entered.
+-   Bugfix: correct input of time 3rd minutes check.
+
 ## [13.1.1] - 2023-01-30
 
 -   Added .npmignore to allow for dist publishing in npm.
